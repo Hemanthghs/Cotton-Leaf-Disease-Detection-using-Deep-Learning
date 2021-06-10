@@ -1,1 +1,1 @@
-# Cotton-Leaf-Disease-Detection-using-Deep-Learning
+# Cotton Leaf Disease Detection using Deep Learning
