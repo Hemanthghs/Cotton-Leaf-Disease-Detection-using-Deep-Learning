@@ -6,11 +6,11 @@
 
 
 
-<h2>📈 About the Project</h2>
-This project is about developing a Deep Learning model using Convolutional Neural Networks which can detect the diseased cotton leaf i.e., to classify whether a given cotton leaf is fresh or diseased. This is a binary classification task as there are 2 different classes.
+<h2>📝 About the Project</h2>
+This project is about developing a Deep Learning model using Convolutional Neural Networks which can detect the diseased cotton leaf i.e., to classify whether a given cotton leaf is fresh or diseased. This is a binary classification task as there are 2 different classes. And creating a flask webapp to deploy model.
 
 
-<h2><b>Dataset</b></h2>
+<h2>🗄️<b> Dataset</b></h2>
 
 <b>Parent Dataset Link : </b> [Click Here](https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset)
 
