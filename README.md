@@ -36,6 +36,17 @@ Dataset consist of color images of fresh and diseased cotton leaves.
 |<h5>No. of Diseased Cotton Leaf Images</h5>|<h6><b>288</b></h6>|<h6><b>55</b><h6>|
 |<h5>Total No. of Images</h5>|<h6><b>715</b></h6>|<h6><b>135</b></h6>|
   
+  <h2>Sample images of fresh cotton leaves from the dataset</h2>
+  
+  <img src="https://github.com/Hemanthghs/Cotton-Leaf-Disease-Detection-using-Deep-Learning/blob/main/readme_imgs/fresh_sample.png">
+  
+  <h2>Sample images of diseased cotton leaves from the dataset</h2>
+  
+  <img src="https://github.com/Hemanthghs/Cotton-Leaf-Disease-Detection-using-Deep-Learning/blob/main/readme_imgs/diseased_sample.png">
+  
+  
+  
+  
   <h2>🛠️ Requirements</h2>
 
   <h4>Programming Language</h4>
