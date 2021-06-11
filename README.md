@@ -88,4 +88,8 @@ Dataset consist of color images of fresh and diseased cotton leaves.
   
  <h2> Training Pipeline</h2>
 <img src="https://github.com/Hemanthghs/Cotton-Leaf-Disease-Detection-using-Deep-Learning/blob/main/readme_imgs/training_pipeline.jpg">
+  
+  <h2>💾 Link to download trained the model</h2>
+  
+  [Download Model](https://github.com/Hemanthghs/Cotton-Leaf-Disease-Detection-using-Deep-Learning/raw/main/model.h5)
 
