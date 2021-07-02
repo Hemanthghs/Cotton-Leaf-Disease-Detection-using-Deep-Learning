@@ -1,7 +1,7 @@
-<h2>Cotton Leaf Disease Detection using Deep Learning - Flask WebApp</h2>
+<h1>Cotton Leaf Disease Detection using Deep Learning - Flask WebApp</h1>
 
 
-<h3><b>Link to the main code colab notebook</b> </h3>
+<h2><b>Link to the main code google colab notebook</b></h2>
 
 [Cotton Leaf Disease Detection.ipynb](https://colab.research.google.com/drive/1UgD3vrr7CopI9RxvaBJKp4tqPBS88SgZ#scrollTo=ABICAi0toxoa)
 <hr>
