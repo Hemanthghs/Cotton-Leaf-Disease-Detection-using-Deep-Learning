@@ -6,6 +6,8 @@
 [Cotton Leaf Disease Detection.ipynb](https://colab.research.google.com/drive/1UgD3vrr7CopI9RxvaBJKp4tqPBS88SgZ#scrollTo=ABICAi0toxoa)
 <hr>
 
+
+
 <h2>Flask WebApp Demo</h2>
 <img src="https://github.com/Hemanthghs/Cotton-Leaf-Disease-Detection-using-Deep-Learning/blob/main/readme_imgs/fresh_pred.png">
 
@@ -16,6 +18,7 @@
 <h2>📝 About the Project</h2>
 This project is about developing a Deep Learning model using Convolutional Neural Networks which can detect the diseased cotton leaf i.e., to classify whether a given cotton leaf is fresh or diseased. This is a binary classification task as there are 2 different classes. And creating a flask webapp to deploy model.
 
+<img src="https://github.com/Hemanthghs/Cotton-Leaf-Disease-Detection-using-Deep-Learning/blob/main/readme_imgs/title.png">
 
 <h2>🗄️<b> Dataset</b></h2>
 
